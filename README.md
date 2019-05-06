@@ -1,4 +1,4 @@
-# attentionAlert
+# attentionPager
 
 ![Platform](https://img.shields.io/badge/Platform-webApp-silver.svg)
 ![Language](https://img.shields.io/badge/Language-JavaScript-orange.svg)
